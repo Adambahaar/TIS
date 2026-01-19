@@ -14,3 +14,6 @@ This event helped me build confidence and curiosity about the digital world. It 
 ### Pictures
 
 ![image alt](https://github.com/Adambahaar/TIS/blob/0c48e39f3a243b1da0cda0060fa28f43fdac69a1/Assignment%201%20%5B%20UTMDigital%20Open%20Day%20%5D%20/images/1768646597036.jpg)
+![image alt](https://github.com/Adambahaar/TIS/blob/main/Assignment%201%20%5B%20UTMDigital%20Open%20Day%20%5D%20/images/1768646598180.jpg?raw=true)
+![image alt](https://github.com/Adambahaar/TIS/blob/b75502511b54a01720b6908a69891835ceb1033d/Assignment%201%20%5B%20UTMDigital%20Open%20Day%20%5D%20/images/1768646600884.jpg)
+![image alt](https://github.com/Adambahaar/TIS/blob/b75502511b54a01720b6908a69891835ceb1033d/Assignment%201%20%5B%20UTMDigital%20Open%20Day%20%5D%20/images/1768646602674.jpg)
