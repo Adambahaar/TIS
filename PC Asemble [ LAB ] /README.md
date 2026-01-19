@@ -12,7 +12,7 @@ Assembling a PC was a valuable hands-on experience that helped me understand how
 ---
 
 ### Suggestion for improvement
-Include time to intentionally troubleshoot common issues so learners gain problem-solving experience.
+Include time to intentionally troubleshoot common issues so students gain problem-solving experience.
 
 ---
 
