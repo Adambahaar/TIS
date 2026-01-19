@@ -2,7 +2,7 @@
 
 ---
 
-## SERUNAI Indutry Talk 
+## SERUNAI Industry Talk 
 
 ---
 
@@ -23,7 +23,7 @@ One improvement to the talk is to provide more real-world examples and case stud
 
 ### Report
 
-[View Poster](https://github.com/Adambahaar/TIS/blob/50df9f5dce963c136766c5ffa5d928c0a5a840df/Assigment%203%20%5B%20industry%20talk%202%20%5D%20/images/TS.pdf)
+[Report SERUNAI industry talk ](https://github.com/Adambahaar/TIS/blob/50df9f5dce963c136766c5ffa5d928c0a5a840df/Assigment%203%20%5B%20industry%20talk%202%20%5D%20/images/TS.pdf)
 
 
 
