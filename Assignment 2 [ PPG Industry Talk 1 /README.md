@@ -3,7 +3,7 @@
 
 ## PPG Industry Talk
 ---
-
+<p align="center">
 <img src="https://github.com/Adambahaar/TIS/blob/6ae52a48692473302190b7e5077b2888842b2dc8/Assignment%202%20%5B%20PPG%20Industry%20Talk%201%20/images/1768647584451.jpg" width="300">
 
 ---
@@ -20,7 +20,7 @@ include a mini hands on activitiy. For example lets students try reading a dashb
 --- 
 
 ### Poster 
-
+<p align="center">
 <img src="https://github.com/Adambahaar/TIS/blob/6ae52a48692473302190b7e5077b2888842b2dc8/Assignment%202%20%5B%20PPG%20Industry%20Talk%201%20/images/1768647586747.jpg" width="300">
 
 ---
